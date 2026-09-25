@@ -1,0 +1,12 @@
+  background: radial-gradient(circle at 20% 20%, rgba(255, 184, 28, .2), transparent 30%), linear-gradient(135deg, #fff8ef, #f9ecef);
+      --maroon: #8d153a;
+    --maroon-dark: #5d0d26;
+    --gold: #ffb81c;
+    --orange: #f47b20;
+    --green: #00534e;
+    --cream: #fffaf0;
+    --ink: #20171a;
+    --muted: #70656a;
+    --white: #fff;
+    --line: #eaded7;
+    --shadow: 0 22px 55px rgba(58, 19, 31, .14);
